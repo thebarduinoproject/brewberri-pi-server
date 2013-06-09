@@ -1,5 +1,5 @@
 {
-    "name": "brewBerri Pi",
+    "name": "brewBerriPi",
     "version": "0.0.1",
     "homepage" : "",
     "description": "RESTful webserver for monitoring Arduino requests from beer refrigerator",
